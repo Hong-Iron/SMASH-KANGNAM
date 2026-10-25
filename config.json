@@ -20,5 +20,58 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "심전생활1관": {
+      "style": "brick",
+      "wall": "#a85a44",
+      "glass": "#2e3a40",
+      "frame": "#e8e6e0"
+    },
+    "심전생활2관": {
+      "style": "dorm",
+      "wall": "#b5654a",
+      "glass": "#3a4146",
+      "frame": "#e6e4de"
+    },
+    "목양관": {
+      "style": "brick",
+      "wall": "#6a4436",
+      "glass": "#3c5a72",
+      "frame": "#c8ccd0",
+      "hip": true,
+      "roof": "#4f9fd4"
+    },
+    "우원관": {
+      "style": "stone",
+      "wall": "#d9d0bc",
+      "glass": "#4a6e6a",
+      "frame": "#f0efe9"
+    },
+    "예술관": {
+      "style": "brick",
+      "wall": "#5e4a42",
+      "glass": "#2a3034",
+      "frame": "#d8d6d0"
+    },
+    "인문사회관": {
+      "style": "stone",
+      "wall": "#e6e3df",
+      "glass": "#363d43",
+      "frame": "#888c90"
+    },
+    "강남대학교 중앙도서관": {
+      "style": "concrete",
+      "wall": "#d9d4c6",
+      "glass": "#3b4650",
+      "frame": "#a9a69c"
+    },
+    "교육관": {
+      "style": "brick",
+      "wall": "#6b5047",
+      "glass": "#3a4a55",
+      "frame": "#e2ddd2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
